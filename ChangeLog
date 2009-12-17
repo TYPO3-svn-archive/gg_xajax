@@ -1,7 +1,11 @@
+2009-12-17 Marco Malagoli <marco@gasser-gasser.ch>
+
+	* Rename extension title from "GG xajax" to "xajax library"
+
 2009-02-27  Marco Malagoli <marco@gasser-gasser.ch>
 
 	* Updated the xajax library to version 0.5
 
 2008-08-15  Marco Malagoli <marco@gasser-gasser.ch>
 
-  * Updated the manual. Thanks to Thomas Frese    
+	* Updated the manual. Thanks to Thomas Frese    
