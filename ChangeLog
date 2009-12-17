@@ -1,5 +1,8 @@
 2009-12-17 Marco Malagoli <marco@gasser-gasser.ch>
 
+	* Added SWFupload plugin
+	* Added Comet plugin
+	* Added modalWindow plugin
 	* Set extension state to stable
 	* Rename extension title from "GG xajax" to "xajax library"
 
