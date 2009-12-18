@@ -3,7 +3,7 @@
 ########################################################################
 # Extension Manager/Repository config file for ext "gg_xajax".
 #
-# Auto generated 18-12-2009 09:31
+# Auto generated 18-12-2009 10:00
 #
 # Manual updates:
 # Only the data in the array - everything else is removed by next
@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
 	'description' => 'xajax is an open source PHP class library implementation of AJAX that allows developers to create web-based Ajax applications using HTML, CSS, JavaScript, and PHP. Applications developed with xajax can asynchronously call server-side PHP functions and update content without reloading the page.',
 	'category' => 'misc',
 	'shy' => 0,
-	'version' => '0.1.0',
+	'version' => '0.2.0',
 	'dependencies' => '',
 	'conflicts' => '',
 	'priority' => '',
