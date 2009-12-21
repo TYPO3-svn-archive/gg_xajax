@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'xajax library',
-	'description' => 'xajax is an open source PHP class library implementation of AJAX that allows developers to create web-based Ajax applications using HTML, CSS, JavaScript, and PHP. Applications developed with xajax can asynchronously call server-side PHP functions and update content without reloading the page.',
+	'description' => 'xajax is an open source PHP class library implementation of AJAX that allows developers to create web-based Ajax applications using HTML, CSS, JavaScript, and PHP.',
 	'category' => 'misc',
 	'shy' => 0,
 	'version' => '0.2.0',
